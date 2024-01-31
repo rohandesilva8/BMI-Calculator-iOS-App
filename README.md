@@ -2,7 +2,7 @@
 
 The BMI Calculator iOS App is a user-friendly and intuitive application developed using the Swift programming language and UIKit framework. This app empowers users to effortlessly calculate their Body Mass Index (BMI), a key indicator of overall health based on height and weight. 
 
-<img src="https://i.postimg.cc/2ytccp1Y/Featured-Graphic.png" >
+<img src="https://i.postimg.cc/bvC4CXSC/Featured-Graphic.png" >
 
 ## Screenshots
 <table style="border: none;">
@@ -17,6 +17,12 @@ The BMI Calculator iOS App is a user-friendly and intuitive application develope
   </tr>
 
 </table>
+
+### Download
+
+The application is available on App Store **for free**!
+
+**Apple App Store**: https://apps.apple.com/app/bmi-calculator-health-boost/id6476835476
 
 
 ### Follow me.
